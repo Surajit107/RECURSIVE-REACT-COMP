@@ -1,0 +1,210 @@
+[
+    {
+        "text": "Root",
+        "type": "folder",
+        "children": [
+            {
+                "text": "Project Alpha",
+                "type": "folder",
+                "children": [
+                    {
+                        "text": "Designs",
+                        "type": "folder",
+                        "children": [
+                            {
+                                "text": "Wireframes",
+                                "type": "folder",
+                                "children": [
+                                    {
+                                        "text": "Homepage Wireframe.pdf",
+                                        "type": "file"
+                                    },
+                                    {
+                                        "text": "Dashboard Wireframe.pdf",
+                                        "type": "file"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "Mockups",
+                                "type": "folder",
+                                "children": [
+                                    {
+                                        "text": "Homepage Mockup.psd",
+                                        "type": "file"
+                                    },
+                                    {
+                                        "text": "Dashboard Mockup.psd",
+                                        "type": "file"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Source Code",
+                        "type": "folder",
+                        "children": [
+                            {
+                                "text": "Frontend",
+                                "type": "folder",
+                                "children": [
+                                    {
+                                        "text": "Components",
+                                        "type": "folder",
+                                        "children": [
+                                            {
+                                                "text": "Button.tsx",
+                                                "type": "file"
+                                            },
+                                            {
+                                                "text": "Header.tsx",
+                                                "type": "file"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "text": "App.tsx",
+                                        "type": "file"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "Backend",
+                                "type": "folder",
+                                "children": [
+                                    {
+                                        "text": "server.ts",
+                                        "type": "file"
+                                    },
+                                    {
+                                        "text": "Routes",
+                                        "type": "folder",
+                                        "children": [
+                                            {
+                                                "text": "userRoutes.ts",
+                                                "type": "file"
+                                            },
+                                            {
+                                                "text": "productRoutes.ts",
+                                                "type": "file"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "Project Beta",
+                "type": "folder",
+                "children": [
+                    {
+                        "text": "Research",
+                        "type": "folder",
+                        "children": [
+                            {
+                                "text": "Papers",
+                                "type": "folder",
+                                "children": [
+                                    {
+                                        "text": "Paper1.pdf",
+                                        "type": "file"
+                                    },
+                                    {
+                                        "text": "Paper2.pdf",
+                                        "type": "file"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "Notes",
+                                "type": "folder",
+                                "children": [
+                                    {
+                                        "text": "Meeting Notes.docx",
+                                        "type": "file"
+                                    },
+                                    {
+                                        "text": "Research Notes.docx",
+                                        "type": "file"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Data Analysis",
+                        "type": "folder",
+                        "children": [
+                            {
+                                "text": "Raw Data",
+                                "type": "folder",
+                                "children": [
+                                    {
+                                        "text": "experiment1.csv",
+                                        "type": "file"
+                                    },
+                                    {
+                                        "text": "experiment2.csv",
+                                        "type": "file"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "Processed Data",
+                                "type": "folder",
+                                "children": [
+                                    {
+                                        "text": "summary1.csv",
+                                        "type": "file"
+                                    },
+                                    {
+                                        "text": "summary2.csv",
+                                        "type": "file"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "Documentation",
+                "type": "folder",
+                "children": [
+                    {
+                        "text": "User Guides",
+                        "type": "folder",
+                        "children": [
+                            {
+                                "text": "Getting Started.pdf",
+                                "type": "file"
+                            },
+                            {
+                                "text": "Advanced Features.pdf",
+                                "type": "file"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "API Documentation",
+                        "type": "folder",
+                        "children": [
+                            {
+                                "text": "API Overview.pdf",
+                                "type": "file"
+                            },
+                            {
+                                "text": "Endpoint Reference.pdf",
+                                "type": "file"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

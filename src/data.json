@@ -1,0 +1,80 @@
+[
+    {
+        "text": "Project Documents",
+        "type": "folder",
+        "children": [
+            {
+                "text": "Meeting Notes.docx",
+                "type": "file"
+            },
+            {
+                "text": "Research",
+                "type": "folder",
+                "children": [
+                    {
+                        "text": "Literature Review.pdf",
+                        "type": "file"
+                    },
+                    {
+                        "text": "Data Analysis",
+                        "type": "folder",
+                        "children": [
+                            {
+                                "text": "Data Set 1.csv",
+                                "type": "file",
+                                "children": [
+                                    {
+                                        "text": "Subset 1.csv",
+                                        "type": "file"
+                                    },
+                                    {
+                                        "text": "Subset 2.csv",
+                                        "type": "file"
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "Data Set 2.csv",
+                                "type": "file"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Client Proposals",
+        "type": "folder",
+        "children": [
+            {
+                "text": "2024 Proposals",
+                "type": "folder",
+                "children": [
+                    {
+                        "text": "Proposal A.pdf",
+                        "type": "file"
+                    },
+                    {
+                        "text": "Proposal B.pdf",
+                        "type": "file"
+                    }
+                ]
+            },
+            {
+                "text": "2023 Proposals",
+                "type": "folder",
+                "children": [
+                    {
+                        "text": "Proposal C.pdf",
+                        "type": "file"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Project Overview.pptx",
+        "type": "file"
+    }
+]
